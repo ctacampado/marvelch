@@ -1,0 +1,8 @@
+SVCNAME="marvelch"
+HOST="0.0.0.0"
+PORT="8080"
+PRIVKEY=""
+PUBKEY=""
+API_URL="http://gateway.marvel.com/v1/public/characters?"
+API_LIMIT="100"
+API_INIT_OFFSET="0"

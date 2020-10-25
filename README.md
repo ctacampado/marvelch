@@ -1,5 +1,5 @@
-# marvel-chars
-`marvel-chars` is a Marvel Characters API that serves all listed Marvel characters in Marvel.com.
+# marvelch
+`marvelch` is a Marvel Characters API that serves all listed Marvel characters in Marvel.com.
 
 ## External Packages
 - [github.com/go-chi/chi](github.com/go-chi/chi)
@@ -9,7 +9,7 @@
 ## Installation
 Clone this repo
 ```
-git clone https://github.com/ctacampado/marvel-chars
+git clone https://github.com/ctacampado/marvelch
 ```
 Download dependencies using `go mod`:
 ```
